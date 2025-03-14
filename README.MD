@@ -1,5 +1,8 @@
-# Frontend Mentor - Intro Section with Dropdown Navigation
+# mtm6404-frontend-mentor-
+## Challenge: Intro Section with Dropdown Navigation
 
+*Name:* Kritika
+*Student Number:* 90541130242
 Welcome to the Frontend Mentor challenge! 🚀
 
 This project is an intro section with dropdown navigation, where the goal is to build the layout and functionality as closely as possible to the provided design.
