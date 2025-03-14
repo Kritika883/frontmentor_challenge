@@ -33,7 +33,7 @@ Your challenge is to build out this intro section with dropdown navigation, and 
 
 | Desktop View        | Mobile View        |
 |---------------------|---------------------|
-| ![Desktop Screenshot](./images/desktop-screenshot.jpg) | ![Mobile Screenshot](./images/mobile-screenshot.jpg) |
+| ![Desktop Screenshot](./desktop.jpg.png) | ![Mobile Screenshot](./images/mobile-screenshot.jpg) |
 
 ## Links
 
