@@ -38,10 +38,6 @@ Your challenge is to build out this intro section with dropdown navigation, and 
 |---------------------|---------------------|
 | ![Desktop Screenshot](./desktop.jpg.png) | ![Mobile Screenshot](./mobildesign.png) |
 
-## Links
-
-- [Solution URL](Your solution URL here)
-- [Live Site URL](Your live site URL here)
 
 ## Built with
 
