@@ -52,4 +52,4 @@ Your challenge is to build out this intro section with dropdown navigation, and 
 
 1. Clone the repository:
    ```bash
-   git clone https://https://github.com/Kritika883/frontmentor_challenge/blob/main/README.MD
+   git clone https://github.com/Kritika883/frontmentor_challenge/blob/main/README.MD
