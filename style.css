@@ -60,10 +60,39 @@ a {
         flex-direction: row;
         text-align: center;
     }
+
     .hero-text {
         margin: 0;
     }
+
     .hero-image-size {
-        max-width: 40%;
+        /* max-width: 40%; */
     }
+}
+
+
+.login-btn {
+    color: grey;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.login-btn:hover {
+    color: black;
+}
+
+.register-btn {
+    color: grey;
+}
+
+.register-btn:hover {
+    color: black;
+    background: transparent;
+    background-color: transparent;
+}
+
+.learn-btn:hover {
+    color: black;
+    background: transparent;
+    background-color: transparent;
 }
