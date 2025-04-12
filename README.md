@@ -36,7 +36,7 @@ Your challenge is to build out this intro section with dropdown navigation, and 
 
 | Desktop View        | Mobile View        |
 |---------------------|---------------------|
-| ![Desktop Screenshot](./desktop.jpg.png) | ![Mobile Screenshot](./mobildesign.png) |
+| ![Desktop Screenshot](./design/desktop-design.jpg) | ![Mobile Screenshot](./design/mobile-design.jpg) |
 
 
 ## Built with
